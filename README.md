@@ -19,7 +19,7 @@ Criação de um portifolio virtual com HTMLl5, CSS3 ,JavaScrip e Bootstrap
  
 <a href="https://drive.google.com/file/d/1vTPbVhIGbE3b7sOLe5hRzvFsylipH6u4/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank"></a>
 
-- Website: [https://gusttavohenry.github.io/Meu-portifolio/index.html)
+- Website: [https://gusttavohenry.github.io/Portfolio-Gusttavo-Henry/)
 ## 🚀 Linguagens
 
 Esse projeto foi desenvolvido com as seguintes Linguagens:
